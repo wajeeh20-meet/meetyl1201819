@@ -128,5 +128,5 @@ class Cake():
 
 cake = Cake("chocolate")
 cake.eat()
-# what I want to be printed: Yummy!!! Eating a chocolate cake :)
+#what I want to be printed: Yummy!!! Eating a chocolate cake :)
 

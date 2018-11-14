@@ -19,11 +19,18 @@ lion.make_sound()
 
 #problem 3: 
 class person(object):
-	def __init__(self,name,age, city, gender)
-	self.name = name
-	self.age = age
-	self.city = city
-	self.gender = gender
+	def __init__(self,name,age, city, gender):
+		self.name = name
+		self.age = age
+		self.city = city
+		self.gender = gender
+	def breakfast(self,food):
+		print("hi, i am "+ self.name + " and i am eating " + food + " for breakfast")
+
+
+wajeeh = person("wajeeh", 15 , "jerusalem", "male")
+wajeeh.breakfast("pancakes")
+
 	
 
 		
