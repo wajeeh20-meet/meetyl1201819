@@ -1,4 +1,4 @@
-"""
+'''
 import turtle
 turtle.speed(10)
 for s in range (5):
@@ -36,7 +36,7 @@ turtle.goto(0,0)
 
 turtle.mainloop()
 
-"""
+'''
 
 ####the weird shape now##########
 import turtle
